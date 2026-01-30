@@ -1,0 +1,583 @@
+.elementor-22595 .elementor-element.elementor-element-be08b65:not(.elementor-motion-effects-element-type-background),
+.elementor-22595 .elementor-element.elementor-element-be08b65>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://www.veltechmultitech.org/wp-content/uploads/2018/08/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-22595 .elementor-element.elementor-element-be08b65>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.75;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22595 .elementor-element.elementor-element-be08b65>.elementor-container {
+    max-width: 1444px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-be08b65 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 050px;
+    margin-bottom: 0100px;
+    padding: 80px 0px 70px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-67ed4bc>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-22595 .elementor-element.elementor-element-67ed4bc>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-item .services-desc {
+    padding: 10px 0px 10px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-7480c7f .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-7480c7f .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-7480c7f .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-96e0650 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-96e0650 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-96e0650 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-cfcda45 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-df20f30 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-df20f30 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-df20f30 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-c9faadb>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-22595 .elementor-element.elementor-element-c9faadb>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-3fd3145 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-203aada .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-203aada .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-203aada .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-ea5b4de .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-4ff2eb0 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-b962bf9 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-d2d132a .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-d2d132a .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-d2d132a .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-ac6ac98 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    margin-right: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    margin-left: 10px;
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-efbd832 .services-item .services-desc .services-title,
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-title4 .title,
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-title4 .title a,
+.elementor-22595 .elementor-element.elementor-element-efbd832 .rs-addon-services .services-item .services-desc .services-title a {
+    color: #FFFFFF;
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .elementor-widget-container:hover .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .elementor-widget-container .rs-addon-services .services-item .services-text .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .elementor-widget-container:hover .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-before i {
+    -webkit-transform: translateX(calc(-1 * 10px));
+    transform: translateX(calc(-1 * 10px));
+}
+
+.elementor-22595 .elementor-element.elementor-element-efbd832 .elementor-widget-container .services-style_5 .services-wrap .services-item .fly-desc .services-btn-part .services-btn.icon-after i {
+    -webkit-transform: translateX(10px);
+    transform: translateX(10px);
+}
+
+@media(max-width:1024px) {
+    .elementor-22595 .elementor-element.elementor-element-be08b65 {
+        padding: 60px 0px 60px 0px;
+    }
+    .elementor-22595 .elementor-element.elementor-element-67ed4bc>.elementor-element-populated {
+        margin: 0px 0px 30px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 30px 0px 30px;
+    }
+    .elementor-22595 .elementor-element.elementor-element-c9faadb>.elementor-element-populated {
+        margin: 0px 0px 30px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 30px 0px 30px;
+    }
+    .elementor-22595 .elementor-element.elementor-element-39d3f53>.elementor-element-populated {
+        padding: 0px 30px 0px 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-22595 .elementor-element.elementor-element-39d3f53>.elementor-element-populated {
+        margin: 0px 0px 30px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-22595 .elementor-element.elementor-element-67ed4bc {
+        width: 50%;
+    }
+    .elementor-22595 .elementor-element.elementor-element-c9faadb {
+        width: 50%;
+    }
+    .elementor-22595 .elementor-element.elementor-element-39d3f53 {
+        width: 50%;
+    }
+}
+
+@media(min-width:1025px) {
+    .elementor-22595 .elementor-element.elementor-element-be08b65:not(.elementor-motion-effects-element-type-background),
+    .elementor-22595 .elementor-element.elementor-element-be08b65>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-attachment: fixed;
+    }
+}
